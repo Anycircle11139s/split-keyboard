@@ -1,5 +1,26 @@
 # split-keyboard
 
+Readme time...
+
+I created a split keyboard, because I really enjoyed making the hackpad and I spend a lot of time on my computer and don't wanna get carpal tunnel. I spent a really long time making the split keyboard and it's a bit basic, but I like it. 
+
+<img width="1092" height="676" alt="Screenshot 2026-04-14 at 10 44 15 am" src="https://github.com/user-attachments/assets/a09fab87-41ee-435e-83cb-9afd5b143f75" />
+This is the code, its pretty simple, but I didn't want to make it too complex as it is my first time working with zmk (I used kmk for the hackpad before)
+
+<img width="1016" height="547" alt="Screenshot 2026-04-13 at 3 55 50 pm" src="https://github.com/user-attachments/assets/aeb488d2-9177-4b11-8df8-4cb9e0cb6124" />
+This is my PCB, I spent a while placing the keys in a format that I liked, but I spet a lot longer routing the thing. I lowkenuinely spent like 7 hours just routing it :I
+
+
+<img width="1177" height="684" alt="Screenshot 2026-04-13 at 3 56 20 pm" src="https://github.com/user-attachments/assets/3b2a4e0b-255f-48f5-af1a-2dfcb2810a22" />
+<img width="1152" height="587" alt="Screenshot 2026-04-13 at 3 56 32 pm" src="https://github.com/user-attachments/assets/c12ff4b6-5d54-4c37-8723-544f71721092" />
+
+Here, I have the case, I'm pretty proud of it because there was no tutorial and I had to wing it, but it still turned out pretty well.<img width="916" height="589" alt="Screenshot 2026-04-14 at 10 56 33 am" src="https://github.com/user-attachments/assets/efd6f44d-e872-4d11-8b78-ebce28f766ef" />
+
+The schematic was pretty fun, I made hierarchial sheets and a rlly big keyboard matrix, it was overall pretty easy (the schematic)
+
+BOM:
+
+
 |Name                              |Purpose                                                              |Quantity|Total Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |Distributor    |
 |----------------------------------|---------------------------------------------------------------------|--------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 |Soldering iron tip cleaner        |To get solder off my soldering iron when soldering the split keyboard|1       |2.51            |https://www.aliexpress.com/item/1005011767599627.html?spm=a2g0o.productlist.main.27.7328c2f2shmCH7&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005011767599627%7C_p_origin_prod%3A&algo_pvid=cc685b5f-8751-4102-90f8-53ff884c5232&algo_exp_id=cc685b5f-8751-4102-90f8-53ff884c5232&pdp_ext_f=%7B%22order%22%3A%229%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.70%212.51%21%21%2138.78%2117.11%21%402101d6ff17761259441958065e0e06%2112000056487277700%21sea%21AU%217402515296%21X%211%210%21n_tag%3A-29911%3Bd%3Aef1e07f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000204651200                                                                                                |ali-express    |
