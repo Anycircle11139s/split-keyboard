@@ -35,3 +35,29 @@ BOM:
 |M2 screws                         |to hold it together                                                  |50      |1.90            |https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.productlist.main.2.346548ab4NZzwl&algo_pvid=d25a0667-c54a-4cf3-a1e0-3a0220de0126&algo_exp_id=d25a0667-c54a-4cf3-a1e0-3a0220de0126-1&pdp_ext_f=%7B%22order%22%3A%2247544%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.54%210.99%21%21%212.54%210.99%21%402103274e17760568275421650e83f3%2112000031519353295%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aef1e07f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000203295528&curPageLogUid=QL9hN1rPFrTw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005070119421%7C_p_origin_prod%3A                               |Ali-express    |
 |Keycaps                           |to cover the keys                                                    |124     |3.93            |https://www.aliexpress.com/item/1005007360831985.html                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |Ali-express    |
 |Switches                          |Buttons for keyboard                                                 |110     |16.00           |https://www.aliexpress.com/item/1005004285423123.html                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |Ali-express    |
+
+
+<br>
+
+<br>
+
+Building keyboard:
+<br>
+So I spent a rlly long time sodlering everything together and after a couple bugs and troubleshooting, I finally got it working. I'm really proud of my design and I can't wait to show this off to all my friends and family!
+<br>
+<br>
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-30 at 09 35 08 (1)" src="https://github.com/user-attachments/assets/f8a0f309-b474-4c23-84f9-4006145021d8" />
+
+
+https://github.com/user-attachments/assets/18d752bb-31d4-4ef4-a61a-be9153cc65bb
+
+
+
+https://github.com/user-attachments/assets/6f350401-69de-47bb-a7fa-8a00cfc4a692
+
+<img width="2000" height="1500" alt="WhatsApp Image 2026-06-30 at 09 35 08" src="https://github.com/user-attachments/assets/11ca7127-6217-4640-937a-071610c1d3b4" />
+
+
+
+
